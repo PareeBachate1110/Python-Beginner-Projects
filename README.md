@@ -1,19 +1,19 @@
 # Python-Beginner-Projects
 My collection of beginner Python projects and practice programs.
 
-Projects
+**Projects :**
 
-🧮 Calculator
+🧮 **Calculator**
 
 A simple command-line calculator that performs basic arithmetic operations.
-Concepts: User input, variables, arithmetic operators, conditional statements
+**Concepts:** User input, variables, arithmetic operators, conditional statements
 
-📝 Mad Libs
+📝 **Mad Libs**
 
 A simple Mad Libs game that takes user inputs and uses them to create a fun story.
-Concepts: User input, strings, variables, formatted output
+**Concepts:** User input, strings, variables, formatted output
 
-Skills Practiced:
+**Skills Practiced :**
 Python fundamentals
 User input and output
 Variables and data types
