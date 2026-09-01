@@ -2,6 +2,7 @@
 My collection of beginner Python projects and practice programs.
 
 Projects
+
 🧮 Calculator
 
 A simple command-line calculator that performs basic arithmetic operations.
