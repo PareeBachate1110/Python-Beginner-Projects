@@ -15,6 +15,12 @@ A simple Mad Libs game that takes user inputs and uses them to create a fun stor
 
 **Concepts:** User input, strings, variables, formatted output
 
+⏱️**Count-Up and Countdown Timer**
+
+A simple Python program that takes a user-specified time in seconds, counts up to that value, and then counts back down.
+
+**Concepts:** For loops, range(), reversed(), time module, time.sleep()
+
 
 **Skills Practiced :**
 
@@ -24,6 +30,8 @@ User input and output
 
 Variables and data types
 
+Built-in Functions
+
 Conditional statements
 
 Arithmetic operators
@@ -31,3 +39,5 @@ Arithmetic operators
 Strings
 
 Basic program logic
+
+Loops
