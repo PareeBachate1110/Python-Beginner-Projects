@@ -17,9 +17,9 @@ A simple Mad Libs game that takes user inputs and uses them to create a fun stor
 
 ⏱️**Count-Up and Countdown Timer**
 
-A simple Python program that takes a user-specified time in seconds, counts up to that value, and then counts back down.
+A menu-driven Python program that allows users to choose between a count-up timer and a countdown timer. It displays elapsed or remaining time in HH:MM:SS format and prints a message when the timer finishes.
 
-**Concepts:** For loops, range(), reversed(), time module, time.sleep()
+**Concepts:** For loops, range(), reversed(), time module, time.sleep(), string formatting (zero padding), menu-driven programming
 
 
 
